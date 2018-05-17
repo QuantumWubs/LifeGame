@@ -10,4 +10,3 @@ while(ACTION == 'T'):
     print('========[ Transact ]========')
     Partner = input('Input Partner ID')
     TransAction = input('Action Send(S)/Receive(R)/Cancel(X)\n>')
-    
